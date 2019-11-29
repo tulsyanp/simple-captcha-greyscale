@@ -1,0 +1,7 @@
+*.json
+*.csv
+*.h5
+*.png
+__pycache__
+train
+validate
